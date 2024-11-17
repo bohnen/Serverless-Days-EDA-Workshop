@@ -1,0 +1,6 @@
+export const config = {
+    bucketName: 'eda-workshop',
+    momentoAPIKey: 'momento-api-key',
+    momentoEndpoint: 'https://api.cache.cell-ap-northeast-1-1.prod.a.momentohq.com/topics/*',
+    momentoPath: 'edademo/test',
+}
